@@ -3,4 +3,4 @@ print("fin de journée")
 
 
 
-print()
+var = 1
